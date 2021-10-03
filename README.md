@@ -1,5 +1,7 @@
 # Chat Bot
+```
 This bot was created to use on minecraft server skyheroes.pl
+```
 
 ### Install
 
